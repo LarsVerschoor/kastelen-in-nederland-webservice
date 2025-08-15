@@ -1,0 +1,110 @@
+[
+	{
+		"id": 0,
+		"name": "Kasteel Hoensbroek",
+		"location": {
+			"lat": "50.91666270223532",
+			"lon": "5.918236561816797"
+		},
+		"city": "Hoensbroek"
+	},
+	{
+		"id": 1,
+		"name": "Kasteel de Haar",
+		"location": {
+			"lat": "52.12142698656664",
+			"lon": "4.98624853680838"
+		},
+		"city": "Utrecht"
+	},
+	{
+		"id": 2,
+		"name": "Kasteel Doorwerth",
+		"location": {
+			"lat": "51.96670654259893",
+			"lon": "5.788665844332372"
+		},
+		"city": "Doorwerth"
+	},
+	{
+		"id": 3,
+		"name": "Kasteel Westhove",
+		"location": {
+			"lat": "51.56977950359664",
+			"lon": "3.521772363378911"
+		},
+		"city": "Oostkapelle"
+	},
+	{
+		"id": 4,
+		"name": "Rijksmuseum Muiderslot",
+		"location": {
+			"lat": "52.33434776651525",
+			"lon": "5.071290567056462"
+		},
+		"city": "Muiden"
+	},
+	{
+		"id": 5,
+		"name": "Kasteel Heeswijk",
+		"location": {
+			"lat": "51.65586640081973",
+			"lon": "5.4414300497009656"
+		},
+		"city": "Heeswijk-Dinther"
+	},
+	{
+		"id": 6,
+		"name": "Kasteel Keukenhof",
+		"location": {
+			"lat": "52.267738798125805",
+			"lon": "4.540203405528533"
+		},
+		"city": "Lisse"
+	},
+	{
+		"id": 7,
+		"name": "Menkemaborg",
+		"location": {
+			"lat": "53.40495208388487",
+			"lon": "6.683856517739256"
+		},
+		"city": "Uithuizen"
+	},
+	{
+		"id": 8,
+		"name": "Havezate Mensinge",
+		"location": {
+			"lat": "53.13441682228817",
+			"lon": "6.435118244920763"
+		},
+		"city": "Roden"
+	},
+	{
+		"id": 9,
+		"name": "Poptaslot",
+		"location": {
+			"lat": "53.20977857245451",
+			"lon": "5.728944319449876"
+		},
+		"city": "Marssum"
+	},
+	{
+		"id": 10,
+		"name": "Kasteel het Nijenhuis",
+		"location": {
+			"lat": "52.416493097259696",
+			"lon": "6.213575384837955"
+		},
+		"city": "Wijhe"
+	},
+	{
+		"id": 11,
+		"name": "Kasteel Loevestein",
+		"location": {
+			"lat": "51.816458202046576",
+			"lon": "5.021376816783241"
+		},
+		"city": "Poederoijen"
+	}
+]
