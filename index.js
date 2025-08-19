@@ -6,7 +6,12 @@ const app = express();
 const server = http.createServer(app);
 const port = process.env.EXPRESS_PORT;
 
-app.get('/', (req, res) => {
+app.get('/', async (req, res) => {
+	const { delay: delayRaw } = req.query;
+	const delay = Math.max(0, Math.min(parseInt(delayRaw) || 0, 5000));
+
+	if (delay > 0) await new Promise((resolve) => setTimeout(resolve, delay));
+
 	res.json(castles);
 });
 
