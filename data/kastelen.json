@@ -3,8 +3,8 @@
 		"id": 0,
 		"name": "Kasteel Hoensbroek",
 		"location": {
-			"latitude": "50.91666270223532",
-			"longitude": "5.918236561816797"
+			"latitude": 50.91666270223532,
+			"longitude": 5.918236561816797
 		},
 		"city": "Hoensbroek",
 		"image": {
@@ -15,8 +15,8 @@
 		"id": 1,
 		"name": "Kasteel de Haar",
 		"location": {
-			"latitude": "52.12142698656664",
-			"longitude": "4.98624853680838"
+			"latitude": 52.12142698656664,
+			"longitude": 4.98624853680838
 		},
 		"city": "Utrecht",
 		"image": {
@@ -27,8 +27,8 @@
 		"id": 2,
 		"name": "Kasteel Doorwerth",
 		"location": {
-			"latitude": "51.96670654259893",
-			"longitude": "5.788665844332372"
+			"latitude": 51.96670654259893,
+			"longitude": 5.788665844332372
 		},
 		"city": "Doorwerth",
 		"image": {
@@ -39,8 +39,8 @@
 		"id": 3,
 		"name": "Kasteel Westhove",
 		"location": {
-			"latitude": "51.56977950359664",
-			"longitude": "3.521772363378911"
+			"latitude": 51.56977950359664,
+			"longitude": 3.521772363378911
 		},
 		"city": "Oostkapelle",
 		"image": {
@@ -51,8 +51,8 @@
 		"id": 4,
 		"name": "Rijksmuseum Muiderslot",
 		"location": {
-			"latitude": "52.33434776651525",
-			"longitude": "5.071290567056462"
+			"latitude": 52.33434776651525,
+			"longitude": 5.071290567056462
 		},
 		"city": "Muiden",
 		"image": {
@@ -63,8 +63,8 @@
 		"id": 5,
 		"name": "Kasteel Heeswijk",
 		"location": {
-			"latitude": "51.65586640081973",
-			"longitude": "5.4414300497009656"
+			"latitude": 51.65586640081973,
+			"longitude": 5.4414300497009656
 		},
 		"city": "Heeswijk-Dinther",
 		"image": {
@@ -75,8 +75,8 @@
 		"id": 6,
 		"name": "Kasteel Keukenhof",
 		"location": {
-			"latitude": "52.267738798125805",
-			"longitude": "4.540203405528533"
+			"latitude": 52.267738798125805,
+			"longitude": 4.540203405528533
 		},
 		"city": "Lisse",
 		"image": {
@@ -87,8 +87,8 @@
 		"id": 7,
 		"name": "Menkemaborg",
 		"location": {
-			"latitude": "53.40495208388487",
-			"longitude": "6.683856517739256"
+			"latitude": 53.40495208388487,
+			"longitude": 6.683856517739256
 		},
 		"city": "Uithuizen",
 		"image": {
@@ -99,8 +99,8 @@
 		"id": 8,
 		"name": "Havezate Mensinge",
 		"location": {
-			"latitude": "53.13441682228817",
-			"longitude": "6.435118244920763"
+			"latitude": 53.13441682228817,
+			"longitude": 6.435118244920763
 		},
 		"city": "Roden",
 		"image": {
@@ -111,8 +111,8 @@
 		"id": 9,
 		"name": "Poptaslot",
 		"location": {
-			"latitude": "53.20977857245451",
-			"longitude": "5.728944319449876"
+			"latitude": 53.20977857245451,
+			"longitude": 5.728944319449876
 		},
 		"city": "Marssum",
 		"image": {
@@ -123,8 +123,8 @@
 		"id": 10,
 		"name": "Kasteel het Nijenhuis",
 		"location": {
-			"latitude": "52.416493097259696",
-			"longitude": "6.213575384837955"
+			"latitude": 52.416493097259696,
+			"longitude": 6.213575384837955
 		},
 		"city": "Wijhe",
 		"image": {
@@ -135,8 +135,8 @@
 		"id": 11,
 		"name": "Kasteel Loevestein",
 		"location": {
-			"latitude": "51.816458202046576",
-			"longitude": "5.021376816783241"
+			"latitude": 51.816458202046576,
+			"longitude": 5.021376816783241
 		},
 		"city": "Poederoijen",
 		"image": {
