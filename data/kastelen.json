@@ -6,7 +6,10 @@
 			"lat": "50.91666270223532",
 			"lon": "5.918236561816797"
 		},
-		"city": "Hoensbroek"
+		"city": "Hoensbroek",
+		"image": {
+			"url": "https://www.kasteelhoensbroek.nl/wp-content/uploads/2023/09/Kasteel-Hoensbroek-Exterieur-1-1920x1280.jpg"
+		}
 	},
 	{
 		"id": 1,
@@ -15,7 +18,10 @@
 			"lat": "52.12142698656664",
 			"lon": "4.98624853680838"
 		},
-		"city": "Utrecht"
+		"city": "Utrecht",
+		"image": {
+			"url": "https://erfgoedbekeken.nl/wp-content/uploads/2022/06/haarzuilens_kasteeldehaar_IMG_4761_cr-1038x576.jpg"
+		}
 	},
 	{
 		"id": 2,
@@ -24,7 +30,10 @@
 			"lat": "51.96670654259893",
 			"lon": "5.788665844332372"
 		},
-		"city": "Doorwerth"
+		"city": "Doorwerth",
+		"image": {
+			"url": "https://glk.imgix.net/content/uploads/2022/05/Doorwerth-kasteel-westhoek-zomer.jpg?w=1024&fit=crop&crop=faces&auto=compress,format&h=576"
+		}
 	},
 	{
 		"id": 3,
@@ -33,7 +42,10 @@
 			"lat": "51.56977950359664",
 			"lon": "3.521772363378911"
 		},
-		"city": "Oostkapelle"
+		"city": "Oostkapelle",
+		"image": {
+			"url": "https://merk.anwb.nl/transform/d8a2537f-b5ee-4847-b1ce-c866c670a016/Kasteel-Westhove-jpg?io=height%3A473%2Ctransform%3Afill%2Cwidth%3A838"
+		}
 	},
 	{
 		"id": 4,
@@ -42,7 +54,10 @@
 			"lat": "52.33434776651525",
 			"lon": "5.071290567056462"
 		},
-		"city": "Muiden"
+		"city": "Muiden",
+		"image": {
+			"url": "https://merk.anwb.nl/transform/9295f980-2247-45a1-aa6b-f2a44a990e6f/Grasveld-en-muiderslot-WEB-jpg?io=height%3A473%2Ctransform%3Afill%2Cwidth%3A838"
+		}
 	},
 	{
 		"id": 5,
@@ -51,7 +66,10 @@
 			"lat": "51.65586640081973",
 			"lon": "5.4414300497009656"
 		},
-		"city": "Heeswijk-Dinther"
+		"city": "Heeswijk-Dinther",
+		"image": {
+			"url": "https://merk.anwb.nl/transform/6bd5ddbe-ceec-4a11-a8fb-5f237d321e36/Monument-Kasteel-Heeswijk-Willeke-Machiels-jpg?io=height%3A473%2Ctransform%3Afill%2Cwidth%3A838"
+		}
 	},
 	{
 		"id": 6,
@@ -60,7 +78,10 @@
 			"lat": "52.267738798125805",
 			"lon": "4.540203405528533"
 		},
-		"city": "Lisse"
+		"city": "Lisse",
+		"image": {
+			"url": "https://merk.anwb.nl/transform/5697f63e-ef03-4e24-a7b6-527558ebec56/land-van-anwb-kasteel-keukenhof-een-leuk-dagje-uit-1-jpg?io=height%3A473%2Ctransform%3Afill%2Cwidth%3A838"
+		}
 	},
 	{
 		"id": 7,
@@ -69,7 +90,10 @@
 			"lat": "53.40495208388487",
 			"lon": "6.683856517739256"
 		},
-		"city": "Uithuizen"
+		"city": "Uithuizen",
+		"image": {
+			"url": "https://merk.anwb.nl/transform/6341db08-ae66-449d-b23d-cac54eac3554/land-van-anwb-menkemaborg-een-leuk-dagje-uit-1-jpg?io=height%3A473%2Ctransform%3Afill%2Cwidth%3A838"
+		}
 	},
 	{
 		"id": 8,
@@ -78,7 +102,10 @@
 			"lat": "53.13441682228817",
 			"lon": "6.435118244920763"
 		},
-		"city": "Roden"
+		"city": "Roden",
+		"image": {
+			"url": "https://merk.anwb.nl/transform/af854552-5a6d-4f1e-9bb9-cf2c397662aa/Mensinge-EENMALIG-GEBRUIK-NIET-MEER-PAKKEN-jpg?io=height%3A473%2Ctransform%3Afill%2Cwidth%3A838"
+		}
 	},
 	{
 		"id": 9,
@@ -87,7 +114,10 @@
 			"lat": "53.20977857245451",
 			"lon": "5.728944319449876"
 		},
-		"city": "Marssum"
+		"city": "Marssum",
+		"image": {
+			"url": "https://merk.anwb.nl/transform/3129c660-b2eb-497f-973c-84aa2c1b094c/Poptaslot-jpg?io=height%3A473%2Ctransform%3Afill%2Cwidth%3A838"
+		}
 	},
 	{
 		"id": 10,
@@ -96,7 +126,10 @@
 			"lat": "52.416493097259696",
 			"lon": "6.213575384837955"
 		},
-		"city": "Wijhe"
+		"city": "Wijhe",
+		"image": {
+			"url": "https://merk.anwb.nl/transform/235b5bb3-69ab-4f47-801b-31f2675a3ff6/land-van-anwb-landgoed-nijenhuis-een-leuk-dagje-weg-1-jpg?io=height%3A473%2Ctransform%3Afill%2Cwidth%3A838"
+		}
 	},
 	{
 		"id": 11,
@@ -105,6 +138,9 @@
 			"lat": "51.816458202046576",
 			"lon": "5.021376816783241"
 		},
-		"city": "Poederoijen"
+		"city": "Poederoijen",
+		"image": {
+			"url": "https://erfgoedbekeken.nl/wp-content/uploads/2024/07/slotloevestein-IMG_1907_cr-1038x576.jpg"
+		}
 	}
 ]
